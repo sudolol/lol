@@ -54,9 +54,9 @@ video.push({
 }); 
 // Shotgun Willy - Just Got Sued
 video.push({
-	video_id: '07_aE3vp6bQ',
-	video_name: 'Just Got Sued',
-	id: '07_aE3vp6bQ' + videoSettings + 'start=0',
+	video_id: 'GCdwKhTtNNw',
+	video_name: 'Sweater Weather',
+	id: 'GCdwKhTtNNw' + videoSettings + 'start=0',
 	note: 'You betta respect the grind.',
 	volume: 35,
 }); 
@@ -78,9 +78,9 @@ video.push({
 }); 
 // Shakira!
 video.push({
-	video_id: 'AQ5ZRB9oWRw',
-	video_name: 'Shakira!',
-	id: 'AQ5ZRB9oWRw' + videoSettings + 'start=0',
+	video_id: 'i90SL_5oxmY',
+	video_name: 'Lofi Beat Rain 1 Hour',
+	id: 'i90SL_5oxmY' + videoSettings + 'start=0',
 	note: 'She fuck with me the most, like damn.',
 	volume: 35,
 }); 	
