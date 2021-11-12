@@ -178,3 +178,115 @@ section.main ul li a:hover {
         opacity: 1
     }
 }
+
+.media-controls {
+    margin-top: 5%;
+    animation: fadein-bottom 3s;
+    -moz-animation: fadein-bottom 3s;
+    -webkit-animation: fadein-bottom 3s;
+    -o-animation: fadein-bottom 3s;
+  }
+  
+  .button {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    color: white;
+    transition: transform 0.5s, color 0.5s;
+  }
+  
+  .button:hover {
+    color: var(--text-highlighted);
+    -ms-transform: scale(1.25);
+    -webkit-transform: scale(1.25);
+    transform: scale(1.25);
+  }
+  
+  .animation-hover {
+    transition: color 0.25s;
+  }
+  
+  .animation-hover:hover {
+    color: var(--bg-primary);
+  }
+  
+  .play::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 1000;
+    content: "\f04b";
+  }
+  
+  .pause::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f04c";
+  }
+  
+  .mute::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f6a9";
+  }
+  
+  .unmute::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f028";
+  }
+  
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 0%;
+    pointer-events: none;
+  }
+  
+  .bottom {
+    font-size: 10px;
+    color: var(--text-subrayado);
+    position: relative;
+    top: 33vh; 
+    font-family: 'Montserrat', sans-serif;
+    animation: fadein-bottom 3s;
+    -moz-animation: fadein-bottom 3s;
+    -webkit-animation: fadein-bottom 3s;
+    -o-animation: fadein-bottom 3s;
+  }
+  
+  .text{
+    font-size: 19px;
+    color: var(--text-subrayado);
+  }
+  
+  .swal2-title, .swal2-html-container{
+    font-family: 'Montserrat', sans-serif;
+    color: white !important; 
+  }
+  .fa-discord::hover {
+    font-weight: 900;
+  }
+  #volumeVideo{
+    font-size: 10px;
+    color: var(--text-subrayado);
+    position: relative;
+    top: 40;
+  
+  }
+  
+  /* Gael :3
+  
+            _..---...,""-._     ,/}/)
+         .''        ,      ``..'(/-<
+        /   _      {      )         \
+       ;   _ `.     `.   <         a(
+     ,'   ( \  )      `.  \ __.._ .: y
+    (  <\_-) )'-.____...\  `._   //-'
+     `. `-' /-._)))      `-._)))
+       `...'         
+  
+  */ 
