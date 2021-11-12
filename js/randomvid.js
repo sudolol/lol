@@ -70,9 +70,9 @@ video.push({
 }); 
 // Shotgun Willy x Yung Craka - Blues Clues (Prod. Lucian x ANH)
 video.push({
-	video_id: 'XG2x9eV846M',
-	video_name: 'Blues Clues',
-	id: 'XG2x9eV846M' + videoSettings + 'start=0',
+	video_id: 'EqjIK-26nUc&t',
+	video_name: 'Close Eyes among us',
+	id: 'EqjIK-26nUc&t' + videoSettings + 'start=0',
 	note: 'Call yo bitch up on my flip phone.',
 	volume: 35,
 }); 
