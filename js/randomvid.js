@@ -38,9 +38,9 @@ video.push({
 }); 
 // Shotgun Willy x Yung Craka - Breakfast in Heaven
 video.push({
-	video_id: 'dSX55V3HnEc',
-	video_name: 'Breakfast in Heaven',
-	id: 'dSX55V3HnEc' + videoSettings + 'start=0',
+	video_id: '8B_pUhoCVsk',
+	video_name: 'Dark Red',
+	id: '8B_pUhoCVsk' + videoSettings + 'start=0',
 	note: 'I think i love this bitch cuz her pussy feels like heaven.',
 	volume: 35,
 }); 
@@ -182,9 +182,9 @@ video.push({
 }); 
 // Shotgun Willy - Wendy (Ft. Yung Craka)
 video.push({
-	video_id: 'GPNMBxK97fE',
-	video_name: 'Wendy',
-	id: 'GPNMBxK97fE' + videoSettings + 'start=0',
+	video_id: 'uiWiURK0XNA',
+	video_name: 'Disaster',
+	id: 'uiWiURK0XNA' + videoSettings + 'start=0',
 	note: 'I&apos;m making a brick, I got me a chick, she drivin&apos; me crazy.',
 	volume: 35,
 }); 
